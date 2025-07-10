@@ -9,7 +9,7 @@
 Here are some ideas to get you started:
 -->
 
-# Sobre Mí
+## Sobre Mí
 
 Me dedico a convertir datos crudos en insights claros y accionables. En este repositorio encontrarás proyectos donde aplico herramientas como Python (pandas, matplotlib, seaborn), SQL, Excel y Power BI para explorar datos, construir visualizaciones y generar recomendaciones basadas en evidencia.
 
