@@ -1,7 +1,11 @@
 <h1 align="center">Hola soy Diego! 👋</h1>
 <p align="center">
   Analista de Datos Jr. | Explorador de patrones | Apasionado por transformar datos en decisiones
+  <img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/29e4a6e1-6c8b-4bba-95f2-c482b824dc11" />
 </p>
+
+
+
 
 <!--
 **DiegoWriedt/DiegoWriedt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
