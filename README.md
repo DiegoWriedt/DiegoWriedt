@@ -30,6 +30,6 @@ Python | SQL | Pandas | Matplotlib | Seaborn | Power BI | Excel | Jupyter Notebo
 
 ## 📫 Conecta conmigo
 
-- [LinkedIn]([https://www.linkedin.com/in/diegowriedt/](https://www.linkedin.com/in/diego-wriedt-164aa9352/))
+- [LinkedIn]([(https://www.linkedin.com/in/diego-wriedt-164aa9352/)]
 - diegowriedt@gmail.com  
 - Siempre abierto a colaboración, feedback o nuevas ideas.
