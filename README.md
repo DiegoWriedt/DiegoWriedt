@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Sobre Mí
 
-Me dedico a convertir datos crudos en insights claros y accionables. En este repositorio encontrarás proyectos donde aplico herramientas como Python (pandas, matplotlib, seaborn), SQL, Excel y Power BI para explorar datos, construir visualizaciones y generar recomendaciones basadas en evidencia.
+Me interesa el constante aprendimiento del entorno, me gustan los retos y encaro los probelmas de frente. Me dedico a convertir datos crudos en insights claros y accionables. En este repositorio encontrarás proyectos donde aplico herramientas como Python (pandas, matplotlib, seaborn), SQL, Excel y Power BI para explorar datos, construir visualizaciones y generar recomendaciones basadas en evidencia.
 
 ## 📊 Áreas de interés
 
